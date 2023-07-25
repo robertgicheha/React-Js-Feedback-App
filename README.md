@@ -1,4 +1,4 @@
-# React Feedback App
+  # React Feedback App
 
 This is a project from my React Front To Back 2022 course. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
 
@@ -10,8 +10,9 @@ This project goes over all of the fundamentals of React including...
 - State Management (Component & App Level(Global))
 - Styling
 - Handling Events
-- Lists & Keys
-- Forms,Validation and Animations
+- Lists & Keys    
+- Forms,Validation and Animations{custom buttons, real-time validation}
+- Routing and Creating Limks{QuerynnParams, Nav Links, Router 6, Redirect to another page, Navigation ,Nested Routes }
 - Context API
 - HTTP Requests
 
